@@ -1,5 +1,5 @@
 {
-  "name": "waterline-utils",
+  "name": "maxts/waterline-utils",
   "version": "1.4.4",
   "description": "Various utilities for working with Waterline queries and adapters.",
   "scripts": {
@@ -17,7 +17,7 @@
     "waterline",
     "sails"
   ],
-  "author": "Cody Stoltman <particlebanana@gmail.com>",
+  "author": "Maxim Tsarenko <maxtbusiness@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
@@ -33,6 +33,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sailshq/waterline-utils.git"
+    "url": "git@github.com:maxts/waterline-utils.git"
   }
 }
